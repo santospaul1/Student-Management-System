@@ -47,7 +47,7 @@ if($_SESSION['message'])
             </div>
             <div class="col-md-8">
              <h1>Welcome to w school </h1>
-             <p> Bootstrap requires the  tyryyrty rtyeetetret use of the HTML5 doctype. Without it, youll see some funky and incomplete styling.Curious which components explicitly require our JavaScript and Popper? Click the show components link below. If you’re at all unsure about the general page structure, keep reading for an example page template.</p>
+             <p> Bootstrap requires the  tyryyhfffs rtyeetetret use of the HTML5 doctype. Without it, youll see some funky and incomplete styling.Curious which components explicitly require our JavaScript and Popper? Click the show components link below. If you’re at all unsure about the general page structure, keep reading for an example page template.</p>
            </div>
         </div>
     </div>
